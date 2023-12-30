@@ -2,7 +2,9 @@
   "name": "ncmaz-nextjs",
   "version": "0.2.0",
   "private": true,
+
   "scripts": {
+    "export": "next export",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
